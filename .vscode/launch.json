@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "sourceLanguages": [
+        "swift"
+      ],
+      "args": [],
+      "cwd": "${workspaceFolder:swift-acode-cpp-practical-tasks}",
+      "name": "Debug part1-task1",
+      "program": "${workspaceFolder:swift-acode-cpp-practical-tasks}/.build/debug/part1-task1",
+      "preLaunchTask": "swift: Build Debug part1-task1"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "sourceLanguages": [
+        "swift"
+      ],
+      "args": [],
+      "cwd": "${workspaceFolder:swift-acode-cpp-practical-tasks}",
+      "name": "Release part1-task1",
+      "program": "${workspaceFolder:swift-acode-cpp-practical-tasks}/.build/release/part1-task1",
+      "preLaunchTask": "swift: Build Release part1-task1"
+    }
+  ]
+}
