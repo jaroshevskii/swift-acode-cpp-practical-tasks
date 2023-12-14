@@ -1,3 +1,5 @@
+> [!IMPORTANT]  
+> The translation was created by a person who is zero in Japanese 😅. If you are familiar with Japanese and notice any mistakes or improvements in the translation, we would appreciate your contribution!
 
 > **Language**: 🇺🇸 [English](README.md) | 🇺🇦 [Українська](README.uk.md) | 🇯🇵 日本語
 
