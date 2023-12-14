@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 > **Language**: 🇺🇸 English | 🇺🇦 [Українська](README.uk.md) | | 🇯🇵 [日本語](README.ja.md)
 
 # Swift aCode C++ Practical Tasks
