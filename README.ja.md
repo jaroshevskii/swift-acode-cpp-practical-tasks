@@ -1,7 +1,7 @@
-> [!IMPORTANT]  
-> The translation was created by a person who is zero in Japanese 😅. If you are familiar with Japanese and notice any mistakes or improvements in the translation, we would appreciate your contribution!
-
 > **Language**: 🇺🇸 [English](README.md) | 🇺🇦 [Українська](README.uk.md) | 🇯🇵 日本語
+
+> [!IMPORTANT] 
+> この翻訳は日本語ゼロの人が作成しました😅。日本語に詳しい方で、翻訳の間違いや改善点にお気づきの方は、ぜひご投稿ください。
 
 # Swift aCode C++ 実践タスク
 
