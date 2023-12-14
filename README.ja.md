@@ -6,3 +6,5 @@
 # Swift aCode C++ 実践タスク
 
 このリポジトリには、[aCode](https://acode.com.ua) から C++ の実用的なタスクの Swift のソリューションが含まれています。同じようなタスクを解決するためのリソースとして役立つ、明確で簡潔な実装のために、このコレクションをブラウズしてください。
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
