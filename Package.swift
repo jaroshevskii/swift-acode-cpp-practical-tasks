@@ -3,8 +3,6 @@
 //  Package.swift
 //  SwiftACodeCPPPracticalTasks
 //
-//  Created by Sasha Jaroshevskii on 13/12/2023.
-//
 
 import PackageDescription
 
@@ -17,5 +15,8 @@ let package = Package(
         .executableTarget(
             name: "Part1Task1",
             path: "Sources/SwiftACodeCPPPracticalTasks/Part01/Task1"),
+        .testTarget(
+            name: "Part1Task1Tests",
+            dependencies: ["Part1Task1"]),
     ]
 )
